@@ -1,9 +1,10 @@
-Hi there, I'm Fatemeh Asi 👩‍💻![download](https://user-images.githubusercontent.com/108950539/227043219-844bcf49-43b5-4841-a212-f7def5196c99.jpeg)
+Hi there, I'm Fatemeh Asi 👩‍💻
 
 
 # 💫 About Me:
 🔭 I'm studying computer engineering at Tehran University <br>🌱 I'm currently learning Front-End development<br>
 
+![Uploading giphy.gif…]()
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fatemeh-asi-407551234/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/_eliasi) 
