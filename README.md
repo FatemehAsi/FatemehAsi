@@ -1,4 +1,5 @@
-Hi there, I'm Fatemeh Asi 👩‍💻
+Hi there, I'm Fatemeh Asi 👩‍💻![download](https://user-images.githubusercontent.com/108950539/227043219-844bcf49-43b5-4841-a212-f7def5196c99.jpeg)
+
 
 # 💫 About Me:
 🔭 I'm studying computer engineering at Tehran University <br>🌱 I'm currently learning Front-End development<br>
