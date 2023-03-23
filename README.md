@@ -17,3 +17,6 @@ Hi there, I'm Fatemeh Asi 👩‍💻
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemehAsi&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 🐍 Snake eating my contribution graph
+![snake gif](https://github.com/FatemehAsi/FatemehAsi/blob/output/github-contribution-grid-snake.gif)
