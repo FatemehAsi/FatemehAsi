@@ -18,6 +18,6 @@ Hi there, I'm Fatemeh Asi 👩‍💻
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 🐍 Snake eating my contribution graph
-![Snake animation](https://github.com/FatemehAsi/FatemehAsi/blob/output/github-contribution-grid-snake.gif)
+![Snake gif](https://raw.githubusercontent.com/FatemehAsi/FatemehAsi/output/github-contribution-grid-snake.gif)
 
 
