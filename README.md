@@ -18,5 +18,5 @@ Hi there, I'm Fatemeh Asi 👩‍💻
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 🐍 Snake eating my contribution graph
-![Snake animation](https://github.com/FatemehAsi/FatemehAsi/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
